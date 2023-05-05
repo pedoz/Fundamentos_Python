@@ -3,6 +3,7 @@
 Olá amigos, vou tentar escrever a maior parte das aulas com '.ipynb', porem, alguns arquivos não irão  
 funcionar no caderno do 'Jupyter Notebook', então, na parte do código, vou escrever tipo:  
 > \#arquivo_x.py  
+
 Esse arquivo respectivamente, será o arquivo contendo o código de exemplo.  
 Recomendo que instalem o 'VSCode' e baixem individualmente cada pasta contendo as aulas.  
 Lembro também que o objetivo aqui não é "completar" as atividades, e sim entender a lógica da programação, então,  
