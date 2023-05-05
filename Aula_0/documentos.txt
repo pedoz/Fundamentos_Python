@@ -1,0 +1,11 @@
+SITE COM A DOCUMENTAÇÃO:
+
+strings: docs.python.org/3/library/stdtypes.html#string-methods
+
+input: docs.python.org/3/library/functions.html#input
+
+integer: python.org/3/library/functions.html#int
+
+funções internas: docs.python.org/3/library/functions.html
+
+float: docs.python.org/3/library/functions.html#float
